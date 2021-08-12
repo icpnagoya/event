@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/ja/</loc>
+    <loc>https://icpnagoya.github.io/event/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/"
+                href="https://icpnagoya.github.io/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.com/ja/"
+                href="https://icpnagoya.github.io/event/ja/"
                 />
   </url>
 </urlset>
