@@ -1,9 +1,9 @@
 languageCode = "en-us"
-title = "Massively"
-baseURL = "https://icpnagoya.github.io/event/"
+title = "Event"
+baseURL = "http://example.com/"
 theme = "hugo-theme-massively"
-googleanalytics = ""
-disqusShortname = ""
+googleanalytics = "icp nagoya"
+disqusShortname = "icp nagoya"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 # [params]
@@ -23,9 +23,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
+[languages.ja]
+  languageName = "日本語"
+  title = "イベント"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
