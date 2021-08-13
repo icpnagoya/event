@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://event.icpnagoya.com/ja/</loc>
-    <lastmod>2019-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://event.icpnagoya.com/ja/"
+                />
+  </url><url>
+    <loc>http://event.icpnagoya.com/ja/post/post/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://event.icpnagoya.com/post/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://event.icpnagoya.com/ja/post/post/"
                 />
   </url><url>
     <loc>http://event.icpnagoya.com/ja/post/post1/</loc>
@@ -26,18 +39,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://event.icpnagoya.com/ja/post/post1/"
-                />
-  </url><url>
-    <loc>http://event.icpnagoya.com/ja/post/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://event.icpnagoya.com/post/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://event.icpnagoya.com/ja/post/post/"
                 />
   </url>
 </urlset>
