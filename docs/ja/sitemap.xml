@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://event.icpnagoya.com/ja/post/post/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://event.icpnagoya.com/post/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://event.icpnagoya.com/ja/post/post/"
+                />
+  </url><url>
     <loc>http://event.icpnagoya.com/ja/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -5,6 +5,16 @@
     <link>http://event.icpnagoya.com/ja/</link>
     <description>Recent content on イベント</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://event.icpnagoya.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://event.icpnagoya.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first post - Versión Español</title>
+      <link>http://event.icpnagoya.com/ja/post/post/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://event.icpnagoya.com/ja/post/post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
   </channel>
 </rss>
