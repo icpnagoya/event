@@ -1,8 +1,8 @@
 +++
-title = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+title = 'xxx'
 slug = 'post1'
 image = 'images/pic03.jpg'
-description = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+description = 'xxx'
 disableComments = true
 +++
 xxxxxxxxxxxxxxxxxxxxxxxxxxx.
