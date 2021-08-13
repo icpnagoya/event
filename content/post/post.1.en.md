@@ -1,5 +1,5 @@
 +++
-title = "Nagoya's first international exchange party was held !!"
+title = "Nagoya's first international communication party was held !!"
 slug = 'post1'
 image = 'images/210813.jpg'
 date = "2019-11-22T00:00:00"
