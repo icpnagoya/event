@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Event"
-baseURL = "https://icpnagoya.github.io/event/"
+baseURL = "http://event.icpnagoya.com/"
 theme = "hugo-theme-massively"
 googleanalytics = "icp nagoya"
 disqusShortname = "icp nagoya"
