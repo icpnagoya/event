@@ -1,7 +1,7 @@
 +++
 title = 'xxx'
 slug = 'post1'
-image = 'images/pic03.jpg'
+image = 'images/210813.jpg'
 description = 'xxx'
 disableComments = true
 +++
