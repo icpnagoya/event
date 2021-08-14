@@ -2,7 +2,7 @@
 title = 'ホツマインターナショナルスクール×ICP名古屋'
 slug = 'post2'
 image = 'images/210814.jpg'
-date = "2019-11-22T00:00:00"
+date = "2021-03-03T00:00:00"
 description = '先日3月3日（水）にホツマインターナショナルスクール名古屋校と交流会を開催しました‼'
 disableComments = true
 +++
