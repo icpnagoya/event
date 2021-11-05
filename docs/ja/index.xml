@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>イベント</title>
-    <link>http://event.icpnagoya.com/ja/</link>
+    <link>https://icpnagoya.github.io/event/ja/</link>
     <description>Recent content on イベント</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://event.icpnagoya.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://icpnagoya.github.io/event/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>国際交流パーティ</title>
-      <link>http://event.icpnagoya.com/ja/post/post/</link>
+      <link>https://icpnagoya.github.io/event/ja/post/post/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://event.icpnagoya.com/ja/post/post/</guid>
+      <guid>https://icpnagoya.github.io/event/ja/post/post/</guid>
       <description>［日時］9/26() 21:00-22:30
 ［場所］ZOOM
 ［参加費］無料
@@ -23,10 +23,10 @@ Participation Fee:Free</description>
     
     <item>
       <title>ホツマインターナショナルスクール×ICP名古屋</title>
-      <link>http://event.icpnagoya.com/ja/post/post2/</link>
+      <link>https://icpnagoya.github.io/event/ja/post/post2/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://event.icpnagoya.com/ja/post/post2/</guid>
+      <guid>https://icpnagoya.github.io/event/ja/post/post2/</guid>
       <description>スリランカ🇱🇰ネパール🇳🇵インド🇮🇳インドネシア🇮🇩フィリピン🇵🇭などなど、私たちもこれまで出会ったことのない国籍の方とお話しすることができました。
 「やさしい日本語」を使ったり、どうしたら・どのような言葉を選んだら相手にうまく伝わるのかなど、試行錯誤しながらのコミュニケーションをしたのは初めてだったので、緊張もありましたが、楽しくて、とてもいい経験ができたと思ってます‼️
 「伝える気持ち」さえあれば楽しく交流できるものですね👍👍
@@ -41,10 +41,10 @@ Participation Fee:Free</description>
     
     <item>
       <title>名古屋初めての国際交流パーティー開催しました!!</title>
-      <link>http://event.icpnagoya.com/ja/post/post1/</link>
+      <link>https://icpnagoya.github.io/event/ja/post/post1/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://event.icpnagoya.com/ja/post/post1/</guid>
+      <guid>https://icpnagoya.github.io/event/ja/post/post1/</guid>
       <description></description>
     </item>
     
