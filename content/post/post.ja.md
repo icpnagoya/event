@@ -3,7 +3,8 @@ title = 'スタッフインタビュー'
 slug = 'post'
 image = 'images/IMG_20220310_135434.jpg'
 date = "2022-03-11T21:00:00"
-description = 'ホームページを立ち上げたICPの危険人物     --Ma Kan'
+description = 'ホームページを立ち上げたICPの危険人物  
+--Ma Kan'
 disableComments = true
 +++
 　ICPはどんなバックグラウンドをもつ人でも、一人ひとりの多様性を見出し、融合して、新しい価値創出できる団体です。
