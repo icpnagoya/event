@@ -2,7 +2,7 @@
 title = 'スタッフインタビュー'
 slug = 'post'
 image = 'images/IMG_20220310_135434.jpg'
-date = "2022-03-14T21:00:00"
+date = "2022-03-11T21:00:00"
 description = 'スタッフインタビュー'
 disableComments = true
 +++
